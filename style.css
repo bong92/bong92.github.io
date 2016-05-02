@@ -255,6 +255,12 @@ footer hr {
   }
 }
 
+/*container*/
+.container .content {
+    display: none;
+    padding : 5px;
+}
+
 
 /* Testimonials */
 .testimonial {
