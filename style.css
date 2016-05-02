@@ -293,7 +293,9 @@ footer hr {
 /* Spotlight - featured project*/
 .spotlight {
   background-color: #c2f0f7;
-  
+  /*padding: 3em 1em;
+  margin-top: 3em;
+  margin-bottom: 3em; */
   text-align: center;
 }
 
