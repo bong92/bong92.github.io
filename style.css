@@ -11,10 +11,8 @@ body {
 
 h1, h2, h3 {
 <<<<<<< HEAD
-  font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
-=======
-  font-family: 'Lato', sans-serif;
->>>>>>> parent of e13fb20... change font
+  font-family: ‘Lato’, sans-serif;
+
   font-weight: 300;
 }
 
