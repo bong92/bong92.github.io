@@ -263,7 +263,30 @@ footer hr {
   margin: 0 auto;
 }
 
-
+/*test expander*/
+ .content {display:none;}
+        
+        .toggle.expander.expanded {
+            padding-left: 13px;
+            background-position: left center;
+            background-repeat: no-repeat;
+            background-image: url(expanded.gif);
+        }
+    
+        .toggle.expander.collapsed {
+            padding-left: 13px;
+            background-position: left center;
+            background-repeat: no-repeat;
+            background-image: url(collapsed.gif);
+        }        
+        
+        #demo-nesting-sub1 {
+            margin-left: 20px;
+        }
+        
+        #demo-nesting-sub2 {
+            margin-left: 40px;
+        }            
 
 /*container*/
 .container .content {
