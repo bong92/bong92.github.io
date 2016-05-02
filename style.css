@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3 {
-<<<<<<< HEAD
+
   font-family: ‘Lato’, sans-serif;
 
   font-weight: 300;
@@ -240,9 +240,7 @@ footer hr {
 
 /* Education Block */
 .education {
-  padding: 3em 1em;
-  margin-top: 3em;
-  margin-bottom: 3em;
+  padding-top:20px;
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   margin-bottom: 0;
