@@ -358,6 +358,10 @@ footer hr {
 
 }
 
+.gallery a img:hover .text{
+visibility:visible;
+}
+
 @media screen and (min-width: 40em) {
   .gallery .grid-2 {
     width: 33.3333333%;
