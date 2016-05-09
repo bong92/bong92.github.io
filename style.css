@@ -195,6 +195,20 @@ header {
   height: 500px;
 }
 
+header {
+  background-color: #999;
+  background-image: url(img/background_starkekugel.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 2em;
+  text-align: center;
+  height: 500px;
+}
+
 header h1 {
   color: white;
   font-size: 2em;
