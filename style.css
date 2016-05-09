@@ -145,6 +145,7 @@ body {
   margin: 0em;
   background-color: #fff;
   color: #666;
+  position:relative;
 }
 
 h1, h2, h3 {
@@ -193,7 +194,7 @@ header {
   margin-bottom: 2em;
   text-align: center;
   height: 500px;
-  position: fixed;
+
 }
 
 .header2 {
