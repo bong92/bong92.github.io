@@ -195,7 +195,7 @@ header {
   height: 500px;
 }
 
-header {
+.header2 {
   background-color: #999;
   background-image: url(img/background_starkekugel.jpg);
   background-repeat: no-repeat;
