@@ -138,7 +138,7 @@
 
 }
 
-/*modal 2*/
+
 
 body {
   font: 100% sans-serif;
@@ -444,6 +444,7 @@ footer hr {
 .container .content {
     display: none;
     padding : 5px;
+    position: relative;
 }
 
 
