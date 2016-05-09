@@ -193,6 +193,7 @@ header {
   margin-bottom: 2em;
   text-align: center;
   height: 500px;
+  position: fixed;
 }
 
 .header2 {
